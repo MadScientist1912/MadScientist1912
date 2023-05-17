@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadScientist1912
-- 👀 I’m interested in .robotics ..
-- 🌱 I’m currently learning SE EXTC..
-- 💞️ I’m looking to collaborate on ROBOTICS PROJECTS
-- 📫 How to reach me @pratham_kankariya ig
+- 👀 I’m interested in Machine Learning And Data Analytics
+- 🌱 I’m currently studying my BTech. in Electronics and Telecommunication
+- 💞️ I’m looking to collaborate on ML and Data Analysis Projects
+- 📫 How to reach me prathamkankariya1912@gmail.com 
 
 
 <!---
