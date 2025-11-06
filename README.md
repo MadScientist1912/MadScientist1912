@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MadScientist1912
+- 👋 Hi, I’m @MadScientist1912 aka Pratham Kankariya
 - 👀 I’m interested in Machine Learning And Data Analytics
-- 🌱 I’m currently studying my BTech. in Electronics and Telecommunication
-- 💞️ I’m looking to collaborate on ML and Data Analysis Projects
+- 🌱 I’m currently studying my Masters in Business Management at Queen Mary University of London
 - 📫 How to reach me prathamkankariya1912@gmail.com 
 
 
